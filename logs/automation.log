@@ -1,0 +1,44 @@
+16:56:18.342 [main] INFO  baseClass.BaseClass - Cab Page ---> To Button
+16:56:18.402 [main] INFO  baseClass.BaseClass - Cab Page ---> To input
+16:56:23.711 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Date
+16:56:24.021 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Hours
+16:56:26.541 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Minutes
+16:56:26.644 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Meridian
+16:56:26.734 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the apply button
+16:56:26.855 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
+16:56:55.964 [main] INFO  baseClass.BaseClass - Cab Page ---> User Sort the Car
+16:57:01.166 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Lowest to Highest Price
+16:57:01.213 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Car SUV
+16:57:01.341 [main] INFO  baseClass.BaseClass - Cab Page ---> User get the lowest price
+16:57:01.392 [main] INFO  baseClass.BaseClass - Cab Page ---> User get the Price List
+16:57:01.514 [main] INFO  baseClass.BaseClass - Cab Page ---> Lowest Price Printed
+16:58:16.116 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+16:58:16.118 [main] INFO  baseClass.BaseClass - User close the Ads......
+16:58:51.143 [main] INFO  baseClass.BaseClass - No Ads in window so Skipped..
+16:58:51.145 [main] INFO  baseClass.BaseClass - User close the Login/SignUp......
+16:58:51.381 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+16:58:51.616 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
+16:59:35.824 [main] INFO  baseClass.BaseClass - Cab Page ---> User Click the More Options
+16:59:35.952 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Gift In More Options
+17:00:07.992 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Birthday Gift
+17:00:08.351 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Email Button
+17:00:10.111 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Name
+17:00:10.721 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Mobile Number
+17:00:11.165 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Mail ID
+17:00:11.648 [main] INFO  baseClass.BaseClass - User Enter the compose Message
+17:00:11.951 [main] INFO  baseClass.BaseClass - User click the buy Now Button After Enter all Details
+17:01:41.032 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+17:01:41.035 [main] INFO  baseClass.BaseClass - User close the Ads......
+17:02:16.087 [main] INFO  baseClass.BaseClass - No Ads in window so Skipped..
+17:02:16.089 [main] INFO  baseClass.BaseClass - User close the Login/SignUp......
+17:02:16.358 [main] INFO  baseClass.BaseClass - User Click the Hotel Option in Home Page
+17:02:16.599 [main] INFO  baseClass.BaseClass - User click the location button
+17:02:17.447 [main] INFO  baseClass.BaseClass - User enter the location name
+17:02:18.388 [main] INFO  baseClass.BaseClass - User click the Suggestion location
+17:02:20.568 [main] INFO  baseClass.BaseClass - User click the checkIn button
+17:02:20.681 [main] INFO  baseClass.BaseClass - User enter the check In Date
+17:02:23.844 [main] INFO  baseClass.BaseClass - User click the checkout button
+17:02:24.033 [main] INFO  baseClass.BaseClass - User enter the check out Date
+17:02:24.150 [main] INFO  baseClass.BaseClass - User select the room button
+17:02:24.326 [main] INFO  baseClass.BaseClass - User click the adult button
+17:02:25.053 [main] INFO  baseClass.BaseClass - User Print the List Of Adults Number
