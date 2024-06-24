@@ -31,11 +31,6 @@ public class Hooks {
     	
     	driver.manage().window().maximize();
 	}
-		
-    
-   
-    
-
     @After
     public void addScreenshot(Scenario scenario) {
         
@@ -52,7 +47,6 @@ public class Hooks {
         }
       
     }
-    
     @After(order=2)
     public void tearDown(Scenario scenario) {
         		

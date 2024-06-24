@@ -1,7 +1,5 @@
 package utilities;
 
-
-
 import java.io.FileInputStream;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -19,17 +17,19 @@ public class DataReader
 
 	@SuppressWarnings("incomplete-switch")
 	public static List<HashMap<String, String>> data(String filepath, String sheetName) {
-		
+		//combined collection--list<map>
 		List<HashMap<String, String>> mydata = new ArrayList<>();
 		
 		try {
 			FileInputStream fs = new FileInputStream(filepath);
 			try (XSSFWorkbook workbook = new XSSFWorkbook(fs)) {
 				XSSFSheet sheet = workbook.getSheet(sheetName);
+			//getting the header row which is the key in hash map
 				Row HeaderRow = sheet.getRow(0);
 				for (int i = 1; i < sheet.getPhysicalNumberOfRows(); i++) 
 					{
 					Row currentRow = sheet.getRow(i);
+					//for every row map is created
 					HashMap<String, String> currentHash = new HashMap<String, String>();
 					for (int j = 0; j < currentRow.getPhysicalNumberOfCells(); j++) 
 						{
@@ -41,6 +41,7 @@ public class DataReader
 								break;
 							}
 						}
+					//pushing it into the list collection
 					mydata.add(currentHash);
 					}
 			}

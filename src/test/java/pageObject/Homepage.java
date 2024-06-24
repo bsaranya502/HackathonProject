@@ -73,7 +73,7 @@ public class Homepage extends BasePage{
 		driver.switchTo().frame(switch_frame);
 		ads_close.click();
 		
-		//Thread.sleep(2000);
+	
 		//driver.findElement(By.xpath("//*[@id=\"SW\"]/div[1]/div[2]/div[2]/div/section/span")).click();
 	}
 	

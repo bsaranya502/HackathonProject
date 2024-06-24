@@ -1,0 +1,53 @@
+02:57:28.850 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Hours
+02:57:31.434 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Minutes
+02:57:31.568 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Meridian
+02:57:31.761 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the apply button
+02:57:31.930 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
+02:57:43.472 [main] INFO  baseClass.BaseClass - Cab Page ---> User Sort the Car
+02:57:48.589 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Lowest to Highest Price
+02:57:48.650 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Car SUV
+02:57:48.804 [main] INFO  baseClass.BaseClass - Cab Page ---> User get the lowest price
+02:57:48.840 [main] INFO  baseClass.BaseClass - Cab Page ---> User get the Price List
+02:57:48.951 [main] INFO  baseClass.BaseClass - Cab Page ---> Lowest Price Printed
+02:58:01.129 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+02:58:01.133 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+02:58:03.264 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
+02:58:11.727 [main] INFO  baseClass.BaseClass - Cab Page ---> User Click the More Options
+02:58:11.881 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Gift In More Options
+02:58:14.423 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Birthday Gift
+02:58:14.972 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Email Button
+02:58:16.052 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Name
+02:58:16.934 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Mobile Number
+02:58:17.424 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Mail ID
+02:58:18.176 [main] INFO  baseClass.BaseClass - User Enter the compose Message
+02:58:18.648 [main] INFO  baseClass.BaseClass - User click the buy Now Button After Enter all Details
+02:58:43.821 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+02:58:43.871 [main] INFO  baseClass.BaseClass - User Click the Hotel Option in Home Page
+02:58:45.745 [main] INFO  baseClass.BaseClass - User click the location button
+02:58:46.346 [main] INFO  baseClass.BaseClass - User enter the location name
+02:58:47.015 [main] INFO  baseClass.BaseClass - User click the Suggestion location
+02:58:49.378 [main] INFO  baseClass.BaseClass - User click the checkIn button
+02:58:49.628 [main] INFO  baseClass.BaseClass - User enter the check In Date
+02:58:52.788 [main] INFO  baseClass.BaseClass - User click the checkout button
+02:58:52.976 [main] INFO  baseClass.BaseClass - User enter the check out Date
+02:58:53.085 [main] INFO  baseClass.BaseClass - User select the room button
+02:58:53.240 [main] INFO  baseClass.BaseClass - User click the adult button
+02:58:53.827 [main] INFO  baseClass.BaseClass - User Print the List Of Adults Number
+02:59:06.435 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+02:59:06.437 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+02:59:06.828 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
+02:59:15.828 [main] INFO  baseClass.BaseClass - Cab Page ---> User Click the More Options
+02:59:15.917 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Gift In More Options
+02:59:17.991 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Birthday Gift
+02:59:18.443 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Email Button
+02:59:20.030 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:59:20.038 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:59:20.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+02:59:20.044 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:59:37.160 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:59:37.161 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:59:37.162 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+02:59:37.164 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:59:49.368 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+02:59:49.373 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+02:59:50.640 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button

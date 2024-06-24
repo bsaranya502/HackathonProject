@@ -11,7 +11,7 @@ public class GiftPage extends BasePage{
 
 	JavascriptExecutor j= (JavascriptExecutor)driver;
 	
-	// Wedding Gift Card Element
+	// Birthday Gift Card Element
 	@FindBy(xpath=("//div[contains(@class,'card__details')]/h3[text()='Birthday Card']"))
 	WebElement birthday_gift_card;
 		

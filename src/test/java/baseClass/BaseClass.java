@@ -21,7 +21,7 @@ public class BaseClass {
 		 static WebDriver driver;
 	     static Properties p;
 	     static Logger logger;
-	  	     
+	//for remote environment  	     
 	public static WebDriver initilizeBrowser() throws IOException
 	{
 		if(getProperties().getProperty("execution_env").equalsIgnoreCase("remote"))
@@ -51,6 +51,7 @@ public class BaseClass {
 	        driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"),capabilities);
 			
 		}
+		//For Local environment
 		else if(getProperties().getProperty("execution_env").equalsIgnoreCase("local"))
 			{
 				switch(getProperties().getProperty("browser").toLowerCase()) 
@@ -70,16 +71,17 @@ public class BaseClass {
 			}
 		 driver.manage().deleteAllCookies(); 
 		 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
-		 driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(80));
+		 driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(50));
 		 
 		 return driver;
 		 
 	}
 	
+	//getting the driver
 	public static WebDriver getDriver() {
 			return driver;
 		}
-
+   //load and return the property object
 	public static Properties getProperties() throws IOException
 	{		 
         FileReader file=new FileReader(System.getProperty("user.dir")+"\\src\\test\\resources\\config.properties");

@@ -1,0 +1,53 @@
+10:03:59.933 [main] INFO  baseClass.BaseClass - User close the Login/SignUp......
+10:04:30.005 [main] INFO  baseClass.BaseClass - No Login/SignUp pop up in window so Skipped..
+10:04:30.006 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+10:04:30.220 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
+10:05:06.626 [main] INFO  baseClass.BaseClass - Cab Page ---> User Click the More Options
+10:05:06.740 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Gift In More Options
+10:05:09.597 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Birthday Gift
+10:05:09.789 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Email Button
+10:05:10.573 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:05:10.573 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:05:10.575 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+10:05:10.576 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:05:25.631 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:05:25.632 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:05:25.632 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+10:05:25.632 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:19.031 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+11:09:19.128 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+11:09:19.737 [main] INFO  baseClass.BaseClass - User Click on th One Way Cab Button
+11:09:22.026 [main] INFO  baseClass.BaseClass - Cab Page ---> From Button
+11:09:22.468 [main] INFO  baseClass.BaseClass - Cab Page ---> From input
+11:09:30.208 [main] INFO  baseClass.BaseClass - Cab Page ---> To Button
+11:09:30.277 [main] INFO  baseClass.BaseClass - Cab Page ---> To input
+11:09:35.761 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Date
+11:09:36.081 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Hours
+11:09:38.549 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Minutes
+11:09:38.705 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Meridian
+11:09:38.813 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the apply button
+11:09:38.974 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
+11:09:46.239 [main] INFO  baseClass.BaseClass - Cab Page ---> User Sort the Car
+11:09:51.435 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Lowest to Highest Price
+11:09:51.511 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Car SUV
+11:09:51.656 [main] INFO  baseClass.BaseClass - Cab Page ---> User get the lowest price
+11:09:51.691 [main] INFO  baseClass.BaseClass - Cab Page ---> User get the Price List
+11:09:51.808 [main] INFO  baseClass.BaseClass - Cab Page ---> Lowest Price Printed
+11:10:04.020 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+11:10:04.027 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+11:10:05.848 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
+11:10:13.976 [main] INFO  baseClass.BaseClass - Cab Page ---> User Click the More Options
+11:10:14.110 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Gift In More Options
+11:10:16.698 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Birthday Gift
+11:10:17.337 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Email Button
+11:10:18.916 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Name
+11:10:19.714 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Mobile Number
+11:10:20.207 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Mail ID
+11:10:20.860 [main] INFO  baseClass.BaseClass - User Enter the compose Message
+11:10:21.169 [main] INFO  baseClass.BaseClass - User click the buy Now Button After Enter all Details
+11:10:50.790 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+11:10:50.858 [main] INFO  baseClass.BaseClass - User Click the Hotel Option in Home Page
+11:10:51.357 [main] INFO  baseClass.BaseClass - User click the location button
+11:10:52.306 [main] INFO  baseClass.BaseClass - User enter the location name
+11:10:53.356 [main] INFO  baseClass.BaseClass - User click the Suggestion location
+11:10:55.620 [main] INFO  baseClass.BaseClass - User click the checkIn button
