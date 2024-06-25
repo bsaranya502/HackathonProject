@@ -20,6 +20,7 @@ public class Homepage extends BasePage{
 	@FindBy(xpath="//li[@class='menu_Flights']")
 	WebElement flight_button;
 	
+	//Ads_close
 	@FindBy(xpath="//*[@class='close']")
 	WebElement ads_close; 
 	
@@ -152,9 +153,14 @@ public class Homepage extends BasePage{
 	}
 
 	public void date(String depDate) {
-		
+		////*[@class="fsw "]/div/div[3]
 		driver.findElement(By.xpath("//*[@id=\"top-banner\"]/div[2]/div/div/div[2]/div[1]/div[3]")).click();
-		WebElement date=driver.findElement(By.xpath("//*[contains(@class,'DayPicker-Day')][@tabindex=-1][@aria-disabled='false'][contains(@aria-label,'"+depDate+"')]"));
+		try {
+			Thread.sleep(2000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}		WebElement date=driver.findElement(By.xpath("//*[contains(@class,'DayPicker-Day')][@tabindex=-1][@aria-disabled='false'][contains(@aria-label,'"+depDate+"')]"));
 		
 		date.click();
 	}

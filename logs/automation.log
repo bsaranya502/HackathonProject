@@ -1,26 +1,24 @@
-05:00:01.499 [main] INFO  baseClass.BaseClass - Cab Page ---> User get the Price List
-05:00:01.696 [main] INFO  baseClass.BaseClass - Cab Page ---> Lowest Price Printed
-05:00:20.451 [main] INFO  baseClass.BaseClass - User Navigation to the page............
-05:00:20.456 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
-05:00:22.300 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
-05:00:33.850 [main] INFO  baseClass.BaseClass - Cab Page ---> User Click the More Options
-05:00:33.987 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Gift In More Options
-05:00:36.663 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Birthday Gift
-05:00:37.083 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Email Button
-05:00:38.178 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Name
-05:00:38.800 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Mobile Number
-05:00:39.161 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Mail ID
-05:00:39.566 [main] INFO  baseClass.BaseClass - User Enter the compose Message
-05:00:39.817 [main] INFO  baseClass.BaseClass - User click the buy Now Button After Enter all Details
-05:01:05.562 [main] INFO  baseClass.BaseClass - User Navigation to the page............
-05:01:05.570 [main] INFO  baseClass.BaseClass - User Click the Hotel Option in Home Page
-05:01:06.222 [main] INFO  baseClass.BaseClass - User click the location button
-05:01:06.984 [main] INFO  baseClass.BaseClass - User enter the location name
-05:01:07.592 [main] INFO  baseClass.BaseClass - User click the Suggestion location
-05:01:09.793 [main] INFO  baseClass.BaseClass - User click the checkIn button
-05:01:10.056 [main] INFO  baseClass.BaseClass - User enter the check In Date
-05:01:13.229 [main] INFO  baseClass.BaseClass - User click the checkout button
-05:01:13.443 [main] INFO  baseClass.BaseClass - User enter the check out Date
-05:01:13.622 [main] INFO  baseClass.BaseClass - User select the room button
-05:01:13.863 [main] INFO  baseClass.BaseClass - User click the adult button
-05:01:14.983 [main] INFO  baseClass.BaseClass - User Print the List Of Adults Number
+09:55:17.011 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+09:55:17.018 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+09:55:17.164 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
+09:55:24.068 [main] INFO  baseClass.BaseClass - Cab Page ---> User Click the More Options
+09:55:24.138 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Gift In More Options
+09:55:26.148 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Birthday Gift
+09:55:26.397 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Email Button
+09:55:27.372 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Name
+09:55:27.787 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Mobile Number
+09:55:27.947 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Mail ID
+09:55:28.152 [main] INFO  baseClass.BaseClass - User Enter the compose Message
+09:55:28.294 [main] INFO  baseClass.BaseClass - User click the buy Now Button After Enter all Details
+09:56:33.282 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+09:56:33.318 [main] INFO  baseClass.BaseClass - User Click the Hotel Option in Home Page
+09:56:33.489 [main] INFO  baseClass.BaseClass - User click the location button
+09:56:34.030 [main] INFO  baseClass.BaseClass - User enter the location name
+09:56:34.662 [main] INFO  baseClass.BaseClass - User click the Suggestion location
+09:56:36.844 [main] INFO  baseClass.BaseClass - User click the checkIn button
+09:56:36.955 [main] INFO  baseClass.BaseClass - User enter the check In Date
+09:56:40.060 [main] INFO  baseClass.BaseClass - User click the checkout button
+09:56:40.153 [main] INFO  baseClass.BaseClass - User enter the check out Date
+09:56:40.236 [main] INFO  baseClass.BaseClass - User select the room button
+09:56:40.386 [main] INFO  baseClass.BaseClass - User click the adult button
+09:56:40.854 [main] INFO  baseClass.BaseClass - User Print the List Of Adults Number
